@@ -1,5 +1,4 @@
-# denoising-autoencoder
-Deep Learning for Audio and Music coursework
+# Deep Denoising Autoencoder for Music Source Separation
 
 Use MUSDB18 dataset
 
