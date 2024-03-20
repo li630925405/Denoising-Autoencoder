@@ -1,4 +1,4 @@
-# Deep Denoising Autoencoder for Music Source Separation
+# Denoising Autoencoder for Source Separation
 
 Use MUSDB18 dataset
 
